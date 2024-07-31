@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Windows.Forms;
 
-namespace Peter
+namespace ShellContextMenu
 {
     /// <summary>
     /// "Stand-alone" shell context menu
