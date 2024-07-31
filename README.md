@@ -21,3 +21,9 @@ http://msdn.microsoft.com/msdnmag/issues/02/10/CuttingEdge/
 Andreas Johansson
 afjohansson@hotmail.com
 http://afjohansson.spaces.live.com
+
+
+## Duplicate Package
+
+[Asjc.ShellContextMenu](https://www.nuget.org/packages/Asjc.ShellContextMenu) appears to be a public package based on the same blog post.
+A code diff shows one change other than the namespace.
