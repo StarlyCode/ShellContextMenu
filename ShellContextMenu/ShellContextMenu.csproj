@@ -10,7 +10,7 @@
     <Description>
       A WinForms context menu
     </Description>
-    <Authors>Spencer Farley</Authors>
+    <Authors>Spencer Farley;Paul Staszko</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/StarlyCode/ShellContextMenu</RepositoryUrl>
     <PackageTags>WinForms;Context Menu</PackageTags>
